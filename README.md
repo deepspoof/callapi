@@ -5,7 +5,7 @@
 Call Spoofer Tool for Spoofing Voips & Calls with Any Caller ID you want.<br>
                                       
 </p>
-<p align="center"><b>Call Spoofing API which lets you change any callerid you want and place calls.</b></p>
+<p align="center"><b>Call Spoofing API which lets you change any callerid you want and place calls. Note that this tool needs license to run. So visit our website and get the license key or message me on Telegram.</b></p>
 
 ### [+] Disclaimer :
 ***The CallSpoof aka Call Spoofer tool is for educational purposes only. Iam not responsible if you missue it***
